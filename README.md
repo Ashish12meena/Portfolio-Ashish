@@ -27,7 +27,7 @@ This is a fully responsive static site built using:
 
 ## 📸 Preview
 
-![Portfolio Preview](https://varadbhogayata.github.io/examples/preview.JPG)
+![Portfolio Preview](https://github.com/Ashish12meena/Portfolio-Ashish/blob/main/assets/img/Portfolio-preview.png)
 
 ## 📂 Projects Included
 
